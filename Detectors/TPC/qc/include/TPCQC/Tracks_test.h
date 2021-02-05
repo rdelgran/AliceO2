@@ -13,7 +13,6 @@
 /// @author Stefan Heckel, sheckel@cern.ch
 ///
 
-//// CIAO
 #ifndef AliceO2_TPC_QC_TRACKS_H
 #define AliceO2_TPC_QC_TRACKS_H
 
